@@ -25,5 +25,3 @@ To build a foundation for **Arabic Legal NLP**, especially for Egyptian laws, en
 - Legal question-answering and retrieval experiments  
 
 
-git clone https://github.com/your-username/marwaai.git
-cd marwaai
